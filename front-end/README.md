@@ -10,10 +10,15 @@
 - React tsx
 - Vite (server)
 - Prettier
+- Jest
+- Playwright
 
 ## Commands
 
 ```javascript
+
+// include node_modules packages
+yarn
 
 // Start server http://localhost:3000
 yarn dev
@@ -24,8 +29,14 @@ yarn build
 // Fix all ts,json,js,tsx prettier
 yarn fix:prettier
 
-// Run jest test
+// Jest test
 yarn test
+
+// Jest coverage
+yarn test:coverage
+
+// E2E test (videos created in map ./test-results)
+yarn test:e2e
 
 ```
 

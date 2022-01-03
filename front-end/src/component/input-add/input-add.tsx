@@ -29,6 +29,7 @@ export const InputAdd: React.FC<InputAdd> = ({ onKeyEnter }) => {
 
   return (
     <input
+      data-testid={'input-add'}
       className={'new-todo'}
       placeholder="What needs to be done?"
       autoFocus={true}

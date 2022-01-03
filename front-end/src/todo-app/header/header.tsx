@@ -14,7 +14,7 @@ export const Header: React.FC<Header> = ({ title }) => {
   };
 
   return (
-    <header className={'header'}>
+    <header className={'header'} data-testid={'header'}>
       <h1>{title}</h1>
       <InputAdd onKeyEnter={handleChange} />
     </header>
