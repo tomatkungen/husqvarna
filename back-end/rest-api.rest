@@ -1,0 +1,11 @@
+###
+
+GET http://www.google.se HTTP/1.1
+
+###
+
+GET http://localhost:3000/movie
+
+###
+
+GET http://localhost:3000/genre
