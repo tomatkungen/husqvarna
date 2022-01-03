@@ -8,6 +8,9 @@
 
 ## Prerequisite
 
+- Get Api access token from https://developers.themoviedb.org/3/getting-started/introduction
+  - Create .env file with key API
+
 ```javacscript
 
 // Create .env in back-end root map
@@ -32,4 +35,3 @@ yarn test:unit
 yarn test:unit:coverage
 
 ```
-
