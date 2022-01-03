@@ -4,12 +4,12 @@
 
 ## Tools
 
-* Yarn
-* Ext install esbenp.prettier-vscode (ctrl+p) or install Prettier extension in vscode
-* Typescript
-* React tsx
-* Vite (server)
-* Prettier
+- Yarn
+- Ext install esbenp.prettier-vscode (ctrl+p) or install Prettier extension in vscode
+- Typescript
+- React tsx
+- Vite (server)
+- Prettier
 
 ## Commands
 
@@ -24,24 +24,22 @@ yarn build
 // Fix all ts,json,js,tsx prettier
 yarn fix:prettier
 
+// Run jest test
+yarn test
+
 ```
 
 ## Resources
 
 - [Github](https://github.com/tomatkungen/husqvarna)
 
-
 ### Articles
 
 - [React](https://reactjs.org/)
 
-
-
-
 ## Implementation
 
 React Functional Component App
-
 
 ## Credit
 

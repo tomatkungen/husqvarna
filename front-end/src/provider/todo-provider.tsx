@@ -113,7 +113,6 @@ export const TodoProvider: React.FC<PropsWithChildren<{}>> = ({ children }) => {
         todos,
       }}
     >
-      {`${JSON.stringify(todos)}`}
       {children}
     </TodoContext.Provider>
   );
