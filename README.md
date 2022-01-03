@@ -1,5 +1,8 @@
-# husqvarna
+# Husqvarna
 
-## monorepo
+## Monorepo
 
-* FrontEnd
+### Frontend
+
+* Todo App    
+* Node.js version >=12.0.0.
